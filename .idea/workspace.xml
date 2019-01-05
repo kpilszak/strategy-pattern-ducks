@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df0f10e5-511d-49cb-9895-44bb4a6b9a08" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FlyBehavior.java" afterPath="$PROJECT_DIR$/src/FlyBehavior.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FlyWithWings.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,7 +25,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FlyBehavior.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FlyBehavior.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FlyBehavior.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="25">
@@ -34,13 +35,26 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="FlyWithWings.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FlyWithWings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+              <folding>
+                <element signature="e#73#74#0" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -57,6 +71,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/Duck.java" />
         <option value="$PROJECT_DIR$/src/FlyBehavior.java" />
+        <option value="$PROJECT_DIR$/src/FlyWithWings.java" />
       </list>
     </option>
   </component>
@@ -227,12 +242,12 @@
       <option name="presentableId" value="Default" />
       <updated>1546641275151</updated>
       <workItem from="1546641276614" duration="401000" />
-      <workItem from="1546723483994" duration="408000" />
+      <workItem from="1546723483994" duration="494000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="809000" />
+    <option name="totallyTimeSpent" value="895000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1829" height="1102" extended-state="6" />
@@ -290,6 +305,17 @@
         <state relative-caret-position="25">
           <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FlyWithWings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+          <folding>
+            <element signature="e#73#74#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
