@@ -3,7 +3,6 @@ public abstract class Duck {
     QuackBehavior quackBehavior;
 
     public Duck() {
-
     }
 
     public abstract void display();
