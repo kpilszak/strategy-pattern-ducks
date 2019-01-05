@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df0f10e5-511d-49cb-9895-44bb4a6b9a08" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ModelDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MiniDuckSimulator.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Duck.java" afterPath="$PROJECT_DIR$/src/Duck.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,7 +49,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ModelDuck.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ModelDuck.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ModelDuck.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="175">
@@ -63,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FlyBehavior.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FlyBehavior.java">
+      <file leaf-file-name="MiniDuckSimulator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MiniDuckSimulator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+            <state relative-caret-position="125">
+              <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -177,8 +176,9 @@
         <option value="$PROJECT_DIR$/src/MuteQuack.java" />
         <option value="$PROJECT_DIR$/src/Squeak.java" />
         <option value="$PROJECT_DIR$/src/FlyRocketPowered.java" />
-        <option value="$PROJECT_DIR$/src/ModelDuck.java" />
         <option value="$PROJECT_DIR$/src/Duck.java" />
+        <option value="$PROJECT_DIR$/src/ModelDuck.java" />
+        <option value="$PROJECT_DIR$/src/MiniDuckSimulator.java" />
       </list>
     </option>
   </component>
@@ -349,12 +349,12 @@
       <option name="presentableId" value="Default" />
       <updated>1546641275151</updated>
       <workItem from="1546641276614" duration="401000" />
-      <workItem from="1546723483994" duration="1482000" />
+      <workItem from="1546723483994" duration="1811000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1883000" />
+    <option name="totallyTimeSpent" value="2212000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1829" height="1102" extended-state="6" />
@@ -470,13 +470,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FlyRocketPowered.java">
+    <entry file="file://$PROJECT_DIR$/src/ModelDuck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="53" lean-forward="false" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+        <state relative-caret-position="175">
+          <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
           <folding>
-            <element signature="e#77#78#0" expanded="true" />
-            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -500,14 +500,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ModelDuck.java">
+    <entry file="file://$PROJECT_DIR$/src/FlyRocketPowered.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        <state relative-caret-position="50">
+          <caret line="2" column="53" lean-forward="false" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
           <folding>
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#77#78#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MiniDuckSimulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
